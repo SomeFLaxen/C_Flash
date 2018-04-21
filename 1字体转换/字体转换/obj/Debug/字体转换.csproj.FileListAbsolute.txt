@@ -1,0 +1,9 @@
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\bin\Debug\字体转换.exe
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\bin\Debug\字体转换.pdb
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.csprojResolveAssemblyReference.cache
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.Form1.resources
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.Properties.Resources.resources
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.csproj.GenerateResource.Cache
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.exe
+C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.pdb

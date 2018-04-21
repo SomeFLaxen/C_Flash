@@ -1,0 +1,9 @@
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\bin\Debug\判断回文数.exe
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\bin\Debug\判断回文数.pdb
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.csprojResolveAssemblyReference.cache
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.Form1.resources
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.Properties.Resources.resources
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.csproj.GenerateResource.Cache
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.exe
+C:\Users\zhang\Desktop\C#\判断回文数\判断回文数\obj\Debug\判断回文数.pdb

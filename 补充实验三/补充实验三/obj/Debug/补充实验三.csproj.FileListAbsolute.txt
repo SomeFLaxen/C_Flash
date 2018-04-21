@@ -1,0 +1,9 @@
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\bin\Debug\补充实验三.exe
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\bin\Debug\补充实验三.pdb
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.csprojResolveAssemblyReference.cache
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.Form1.resources
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.Properties.Resources.resources
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.csproj.GenerateResource.Cache
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.exe
+C:\Users\zhang\Desktop\C#\补充实验三\补充实验三\obj\Debug\补充实验三.pdb

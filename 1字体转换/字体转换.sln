@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字体转换", "字体转换\字体转换.csproj", "{77784B40-5F47-448B-951E-CF1550E8443D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77784B40-5F47-448B-951E-CF1550E8443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77784B40-5F47-448B-951E-CF1550E8443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77784B40-5F47-448B-951E-CF1550E8443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77784B40-5F47-448B-951E-CF1550E8443D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DF32D3-3DC2-4276-A8B7-BC2F494DFC50}
+	EndGlobalSection
+EndGlobal
