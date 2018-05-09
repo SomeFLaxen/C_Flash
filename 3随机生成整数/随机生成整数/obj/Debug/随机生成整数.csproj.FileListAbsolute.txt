@@ -7,3 +7,12 @@ C:\Users\zhang\Desktop\C#\随机生成整数\随机生成整数\obj\Debug\随机
 C:\Users\zhang\Desktop\C#\随机生成整数\随机生成整数\obj\Debug\随机生成整数.csproj.CoreCompileInputs.cache
 C:\Users\zhang\Desktop\C#\随机生成整数\随机生成整数\obj\Debug\随机生成整数.exe
 C:\Users\zhang\Desktop\C#\随机生成整数\随机生成整数\obj\Debug\随机生成整数.pdb
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\bin\Debug\随机生成整数.exe
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\bin\Debug\随机生成整数.pdb
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.csprojResolveAssemblyReference.cache
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.Form1.resources
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.Properties.Resources.resources
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.csproj.GenerateResource.Cache
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.csproj.CoreCompileInputs.cache
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.exe
+F:\GitHub\C#\C_Flash\3随机生成整数\随机生成整数\obj\Debug\随机生成整数.pdb

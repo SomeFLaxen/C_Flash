@@ -8,3 +8,13 @@ C:\Users\zhang\Desktop\C#\产生随机数、菜单等操作\产生随机数、�
 C:\Users\zhang\Desktop\C#\产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.exe
 C:\Users\zhang\Desktop\C#\产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.pdb
 C:\Users\zhang\Desktop\C#\产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数_菜单等操作.Form2.resources
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\bin\Debug\产生随机数、菜单等操作.exe
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\bin\Debug\产生随机数、菜单等操作.pdb
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.csprojResolveAssemblyReference.cache
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数_菜单等操作.Form1.resources
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数_菜单等操作.Form2.resources
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数_菜单等操作.Properties.Resources.resources
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.csproj.GenerateResource.Cache
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.csproj.CoreCompileInputs.cache
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.exe
+F:\GitHub\C#\C_Flash\7产生随机数、菜单等操作\产生随机数、菜单等操作\obj\Debug\产生随机数、菜单等操作.pdb

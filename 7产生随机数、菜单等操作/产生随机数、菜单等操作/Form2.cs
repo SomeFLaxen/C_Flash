@@ -23,7 +23,7 @@ namespace 产生随机数_菜单等操作
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         public void textBox1_TextChanged(object sender, EventArgs e)

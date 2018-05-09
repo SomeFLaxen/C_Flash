@@ -7,3 +7,12 @@ C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.cspro
 C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.csproj.CoreCompileInputs.cache
 C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.exe
 C:\Users\zhang\Desktop\C#\字体转换\字体转换\obj\Debug\字体转换.pdb
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\bin\Debug\字体转换.exe
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\bin\Debug\字体转换.pdb
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.csprojResolveAssemblyReference.cache
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.Form1.resources
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.Properties.Resources.resources
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.csproj.GenerateResource.Cache
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.csproj.CoreCompileInputs.cache
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.exe
+F:\GitHub\C#\C_Flash\1字体转换\字体转换\obj\Debug\字体转换.pdb
