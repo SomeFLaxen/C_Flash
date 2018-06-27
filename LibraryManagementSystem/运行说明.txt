@@ -1,0 +1,4 @@
+使用前请将data文件夹中的数据库文件附加到SQL Server (本系统为2012版实现)中。
+然后直接双击 我的图书管理系统.sln 打开（由VS2013实现）。
+exe可执行文件在  LibraryManagementSystem\LibraryManagementSystem\bin\Debug  
+数据库文件在 LibraryManagementSystem\LibraryManagementSystem\data 
